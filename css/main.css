@@ -1,0 +1,35 @@
+
+.btn  {
+
+        color: white;
+        padding: 8px 24px;
+        border-radius: 4px;
+        font-weight: bold;
+        background: linear-gradient(#167FFB, #0F60C4);
+        transition: background 0.3s ease;
+        border: 1px solid #0F60C4;
+}
+
+footer {
+
+        background: #F4F4F4;
+        padding: 8px;
+        color: rgba(0,0,0,0.3);
+
+}
+
+#footer {
+
+        font-size: 15px; 
+        display: flex; 
+        align-items: center; 
+        justify-content: space-between; 
+        height: 80px; 
+        padding: 0px 50px;
+        list-style-type: none;
+}
+
+.fab {
+
+        font-size: 30px;
+}
