@@ -1,0 +1,45 @@
+header {
+
+        background:khaki;
+}
+
+.btn {
+
+        color: #4A4A4A;
+        border: 1px solid #4A4A4A;
+        padding: 8px 24px;
+        border-radius: 50px;
+        font-weight: lighter;
+        opacity: 0.6;
+        transition: opacity 0.3s ease;
+
+}
+
+h1 {
+
+    text-align: center;
+}
+
+
+footer {
+
+    background: #F4F4F4;
+    padding: 8px;
+    color: rgba(0,0,0,0.3);
+}
+
+#footer {
+
+    list-style-type: none; 
+    font-size: 15px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    height: 70px;
+    padding: 0px 50px;
+}
+
+.fab {
+
+    font-size: 30px;
+}
